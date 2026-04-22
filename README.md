@@ -58,6 +58,6 @@ Anomaly detection successfully detects early deviations
 Model performs well on both binary and multiclass tasks
 
 # Anomaly Dashboard
-![App Screenshot](/Users/soujanyadutta/Predictive_Maintenance_System/assets/anomaly_dashboard.png)
+![App Screenshot](assets/anomaly_dashboard.png)
 
 ⭐ If you like this project, give it a star!
